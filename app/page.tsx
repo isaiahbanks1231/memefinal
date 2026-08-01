@@ -325,7 +325,7 @@ function JoinCTA() {
                 rel="noopener noreferrer"
               >
                 <button className="px-8 py-4 rounded-xl bg-primary text-white font-semibold">
-                  Join Telegram
+                  Get the Free Beginner Course
                 </button>
               </a>
             </div>
